@@ -1,3 +1,59 @@
-  for (let i = 1; i <= 50; i++) {
-	console.log(`chapter${i}: {acf: 'texto from chapter ${i} \n'}`)
-};
+//for (let i = 1; i <= 50; i++) {
+	//console.log(`chapter${i}: {acf: 'texto from chapter ${i} \n'}`)
+//};
+
+const biblia = {
+	genesis: {
+		chapter1: {acf: 'texto from chapter 1'},
+		chapter2: {acf: 'texto from chapter 2'},
+		chapter3: {acf: 'texto from chapter 3'},
+		chapter4: {acf: 'texto from chapter 4'},
+		chapter5: {acf: 'texto from chapter 5'},
+		chapter6: {acf: 'texto from chapter 6'},
+		chapter7: {acf: 'texto from chapter 7'},
+		chapter8: {acf: 'texto from chapter 8'},
+		chapter9: {acf: 'texto from chapter 9'},
+		chapter10: {acf: 'texto from chapter 10'},
+		chapter11: {acf: 'texto from chapter 11'},
+		chapter12: {acf: 'texto from chapter 12'},
+		chapter13: {acf: 'texto from chapter 13'},
+		chapter14: {acf: 'texto from chapter 14'},
+		chapter15: {acf: 'texto from chapter 15'},
+		chapter16: {acf: 'texto from chapter 16'},
+		chapter17: {acf: 'texto from chapter 17'},
+		chapter18: {acf: 'texto from chapter 18'},
+		chapter19: {acf: 'texto from chapter 19'},
+		chapter20: {acf: 'texto from chapter 20'},
+		chapter21: {acf: 'texto from chapter 21'},
+		chapter22: {acf: 'texto from chapter 22'},
+		chapter23: {acf: 'texto from chapter 23'},
+		chapter24: {acf: 'texto from chapter 24'},
+		chapter25: {acf: 'texto from chapter 25'},
+		chapter26: {acf: 'texto from chapter 26'},
+		chapter27: {acf: 'texto from chapter 27'},
+		chapter28: {acf: 'texto from chapter 28'},
+		chapter29: {acf: 'texto from chapter 29'},
+		chapter30: {acf: 'texto from chapter 30'},
+		chapter31: {acf: 'texto from chapter 31'},
+		chapter32: {acf: 'texto from chapter 32'},
+		chapter33: {acf: 'texto from chapter 33'},
+		chapter34: {acf: 'texto from chapter 34'},
+		chapter35: {acf: 'texto from chapter 35'},
+		chapter36: {acf: 'texto from chapter 36'},
+		chapter37: {acf: 'texto from chapter 37'},
+		chapter38: {acf: 'texto from chapter 38'},
+		chapter39: {acf: 'texto from chapter 39'},
+		chapter40: {acf: 'texto from chapter 40'},
+		chapter41: {acf: 'texto from chapter 41'},
+		chapter42: {acf: 'texto from chapter 42'},
+		chapter43: {acf: 'texto from chapter 43'},
+		chapter44: {acf: 'texto from chapter 44'},
+		chapter45: {acf: 'texto from chapter 45'},
+		chapter46: {acf: 'texto from chapter 46'},
+		chapter47: {acf: 'texto from chapter 47'},
+		chapter48: {acf: 'texto from chapter 48'},
+		chapter49: {acf: 'texto from chapter 49'},
+		chapter50: {acf: 'texto from chapter 50'}
+	}
+
+}
