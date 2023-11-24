@@ -1,5 +1,6 @@
 console.log("Init")
 
-for (let i = 50; i >= 0; i--) {
-	console.log(i)
+for (var i = 0; i < 9; i++) {
+  console.log(i);
+  // more statements
 };
